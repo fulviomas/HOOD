@@ -68,22 +68,21 @@ For further license information, please contact the authors.
 
 6. Authors contacts
 -------------------
-If you want to be informed about dataset updates and new code releases,
-obtain further information about the provided dataset, or contribute to its
-development please write to:
+If you want to be informed about dataset updates and new code releases, obtain further
+information about the provided dataset, or contribute to its development please write to:
 
-- Barbara Bruno
-  Laboratorium, dept. DIBRIS
+- Barbara Bruno,
+  dept. DIBRIS
   Università degli Studi di Genova (Italy)
   barbara.bruno@unige.it
 
-- Fulvio Mastrogiovanni
-  Laboratorium, dept. DIBRIS
+- Fulvio Mastrogiovanni,
+  dept. DIBRIS
   Università degli Studi di Genova (Italy)
   fulvio.mastrogiovanni@unige.it
 
-- Antonio Sgorbissa
-  Laboratorium, dept. DIBRIS
+- Antonio Sgorbissa,
+  dept. DIBRIS
   Università degli Studi di Genova (Italy)
   antonio.sgorbissa@unige.it
 
