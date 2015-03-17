@@ -6,34 +6,36 @@ HOOD - Human Odometry Outdoor Data Set
 --------------
 HOOD - Human Odometry Outdoor Data Set is a public collection of labelled
 accelerometer and gyroscope data recordings to be used for the design and validation
-of Personal Dead Reckoning (PDR) systems. HOOD is specifically designed to address
+of Human Odometry (HO) systems. HOOD is specifically designed to address
 the following questions:
-- which is the optimal sensor placement for a PDR system?
-- what are the performances of human odometry algorithms for uncommon motions such
+- which is the optimal sensor placement for a HO system?
+- what is the performance of human odometry algorithms for uncommon motions such
   as crawling and slithering?
-- what are the performances of heading estimation algorithms for uncommon motions
-  such as crawling and slithering?
-- is it possible to design a single, robust and inexpensive PDR system that can
+- what is the performance of human odometry algorithms for uncommon grounds such
+  as river bed, woods and snow?
+- is it possible to design a single, robust and inexpensive HO system that can
   reliably reconstruct the followed path for different motion types and path
   configurations, based on accelerometer and gyroscope information exclusively?
 
-HOOD is composed of 72 recordings of accelerometer and gyroscope data collected
-from one volunteer performing 6 motion types (slow walking, normal walking, running,
-slow crawling, fast crawling, slithering) along 3 different path configurations
-(straight line, closed loop, zig-zag) with 4 sensor placements (foot, waist, wrist, chest).
+HOOD is composed of 168 recordings of accelerometer and gyroscope data collected
+from one volunteer and referring to the combinations of 6 motion types (slow walking,
+normal walking, running, slow crawling, fast crawling, slithering), 6 outdoor
+environments (grass field, uphill road, staircase, river bed, woods, snow), 4 sensor
+placements (foot, waist, wrist, chest) and 2 different path configurations (straight
+line, zig-zag).
 
-An article describing the dataset is currently under submission at ICRA 2015.
+An article describing the dataset is currently under submission at IROS 2015.
 
 
 2. Version
 ----------
-Version: 1.1
-Released on: 26/11/2014
+Version: 2.0
+Released on: 17/03/2015
 
 2.1. Version history
 --------------------
-26/11/2014:    version 1.1 is published, with clearer data organization
-
+17/03/2015:    version 2.0 is published, with an extended dataset
+25/11/2014:    version 1.1 is published, with clearer data organization
 28/09/2014:    version 1.0 is published
 
 
@@ -51,7 +53,7 @@ accelerometer data. A description and example usage of the script can be
 accessed within MATLAB environment with the command:
         help viewRawData
 
-The provided MATLAB script has been developed and tested with MATLAB R2008a.
+The provided MATLAB script has been developed and tested with MATLAB R2013b.
 
 
 5. Licensing
@@ -68,20 +70,21 @@ For further license information, please contact the authors.
 
 6. Authors contacts
 -------------------
-If you want to be informed about dataset updates and new code releases, obtain further
-information about the provided dataset, or contribute to its development please write to:
+If you want to be informed about dataset updates and new code releases,
+obtain further information about the provided dataset, or contribute to its
+development please write to:
 
-- Barbara Bruno,
+- Barbara Bruno
   dept. DIBRIS
   Università degli Studi di Genova (Italy)
   barbara.bruno@unige.it
 
-- Fulvio Mastrogiovanni,
+- Fulvio Mastrogiovanni
   dept. DIBRIS
   Università degli Studi di Genova (Italy)
   fulvio.mastrogiovanni@unige.it
 
-- Antonio Sgorbissa,
+- Antonio Sgorbissa
   dept. DIBRIS
   Università degli Studi di Genova (Italy)
   antonio.sgorbissa@unige.it
