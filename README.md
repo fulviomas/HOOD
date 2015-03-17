@@ -30,12 +30,15 @@ An article describing the dataset is currently under submission at IROS 2015.
 2. Version
 ----------
 Version: 2.0
+
 Released on: 17/03/2015
 
 2.1. Version history
 --------------------
 17/03/2015:    version 2.0 is published, with an extended dataset
+
 25/11/2014:    version 1.1 is published, with clearer data organization
+
 28/09/2014:    version 1.0 is published
 
 
@@ -74,18 +77,18 @@ If you want to be informed about dataset updates and new code releases,
 obtain further information about the provided dataset, or contribute to its
 development please write to:
 
-- Barbara Bruno
-  dept. DIBRIS
+- Barbara Bruno,
+  dept. DIBRIS,
   Università degli Studi di Genova (Italy)
   barbara.bruno@unige.it
 
-- Fulvio Mastrogiovanni
-  dept. DIBRIS
+- Fulvio Mastrogiovanni,
+  dept. DIBRIS,
   Università degli Studi di Genova (Italy)
   fulvio.mastrogiovanni@unige.it
 
-- Antonio Sgorbissa
-  dept. DIBRIS
+- Antonio Sgorbissa,
+  dept. DIBRIS,
   Università degli Studi di Genova (Italy)
   antonio.sgorbissa@unige.it
 
